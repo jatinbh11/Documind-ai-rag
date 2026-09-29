@@ -359,9 +359,19 @@ LangGraph RAG
 - Error handling
 - Responsive layout
 
-### Screenshot
+## 📸 UI Screenshots
 
-![DocuMind AI Streamlit UI](assets/Screenshot%202026-09-29%20224303.png)
+### 1. Chat Interface
+![Chat Interface](assets/Chat-Interface.png)
+
+### 2. AI Response
+![AI Response](assets/AI-Response.png)
+
+### 3. Related Response
+![Related Response](assets/Related-Response.png)
+
+### 4. More Related Response
+![More Related Response](assets/More-Related-Response.png)
 
 ---
 
