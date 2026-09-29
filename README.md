@@ -361,7 +361,7 @@ LangGraph RAG
 
 ### Screenshot
 
-![DocuMind AI Streamlit UI](assets/documind-ui.png)
+![DocuMind AI Streamlit UI](assets/Screenshot%202026-09-29%20224303.png)
 
 ---
 
